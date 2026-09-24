@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Land of Faith and Truth",
+    "leaderName": "Jason Imam",
+    "adjective": ["LFT"],
+    "preferredVictoryType": "Domination",
+    "personality": "Alexander",
+    "startBias": ["Hill"],
+    "uniqueName": "Dark Matter Dominion",
+    "uniques": [
+      "[+15]% Strength"
+    ],
+    "cities": [
+      "LFT",
+      "Jump City",
+      "Faith",
+      "Truth",
+      "New Haven",
+      "Coastal House",
+      "Treehouse",
+      "Trading Hall"
+    ],
+    "innerColor": [255, 255, 255],
+    "outerColor": [20, 20, 20]
+  }
+]
