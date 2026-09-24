@@ -3,30 +3,33 @@
     "name": "LFT Okçu",
     "unitType": "Ranged",
     "replaces": "Archer",
+    "uniqueTo": "LFT",
     "movement": 2,
     "strength": 5,
     "rangedStrength": 7,
-    "range": 3,
+    "range": 2,
     "cost": 40,
     "uniques": [
-      "May attack without retaliation from an adjacent tile"
+      "[1] Range"
     ]
   },
   {
     "name": "LFT Piyade",
     "unitType": "Melee",
     "replaces": "Swordsman",
+    "uniqueTo": "LFT",
     "movement": 2,
     "strength": 14,
     "cost": 75,
     "uniques": [
-      "Defensive terrain bonus +25%"
+      "[+100]% Strength <when defending>"
     ]
   },
   {
     "name": "LFT Balista",
     "unitType": "Siege",
     "replaces": "Catapult",
+    "uniqueTo": "LFT",
     "movement": 2,
     "strength": 8,
     "rangedStrength": 14,
@@ -34,7 +37,7 @@
     "cost": 100,
     "uniques": [
       "Must set up to ranged attack",
-      "Ranged attacks may target [Cities]"
+      "[+250]% Strength <vs cities>"
     ]
   }
 ]
