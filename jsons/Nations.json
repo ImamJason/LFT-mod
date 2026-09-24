@@ -1,19 +1,23 @@
 [
   {
-    "name": "Land of Faith and Truth",
+    "name": "LFT",
     "leaderName": "Jason Imam",
     "adjective": ["LFT"],
-    "outerColor": [20, 20, 20],
-    "innerColor": [255, 255, 255],
+    "outerColor": [0, 0, 0],
+    "innerColor": [139, 0, 0],
+    "preferredVictoryType": "Domination",
+    "startBias": ["Coast"],
+    "uniqueName": "Land of Faith and Truth",
+    "uniques": [
+      "Starts with [Sailing]"
+    ],
     "cities": [
-      "LFT",
-      "Jump City",
-      "Faith",
-      "Truth",
-      "New Haven",
-      "Coastal House",
-      "Treehouse",
-      "Trading Hall"
+      "LFT Şehri",
+      "Sarıköy",
+      "Dereköy",
+      "Gündoğan",
+      "Hasanbey",
+      "Tuzakçı"
     ]
   }
 ]
