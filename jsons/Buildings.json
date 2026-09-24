@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "LFT Ağaç Ev",
+    "uniqueTo": "LFT",
+    "cost": 80,
+    "gold": 7,
+    "requiredTech": "Construction"
+  },
+  {
+    "name": "LFT Yer Altı Fabrikası",
+    "uniqueTo": "LFT",
+    "cost": 200,
+    "science": 19,
+    "gold": 14,
+    "requiredTech": "Industrialization"
+  }
+]
