@@ -16,6 +16,15 @@
     "requiredTech": "Mining"
   },
   {
+    "name": "Ark Reaktörü Santrali",
+    "uniqueTo": "Chaos",
+    "cost": 666,
+    "science": 300,
+    "gold": 100,
+    "production": 500,
+    "requiredTech": "Industrialization"
+  },
+  {
     "name": "Elmas Madeni",
     "uniqueTo": "LFT",
     "cost": 220,
