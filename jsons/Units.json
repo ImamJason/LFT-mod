@@ -8,7 +8,8 @@
     "strength": 8,
     "rangedStrength": 9,
     "range": 3,
-    "cost": 50
+    "cost": 50,
+    "requiredTech": "Archery"
   },
   {
     "name": "LFT Piyade",
@@ -17,7 +18,9 @@
     "uniqueTo": "LFT",
     "movement": 3,
     "strength": 18,
-    "cost": 80
+    "cost": 80,
+    "requiredTech": "Iron Working",
+    "requiredResource": "Iron"
   },
   {
     "name": "LFT Mancınık",
@@ -29,6 +32,8 @@
     "rangedStrength": 15,
     "range": 3,
     "cost": 150,
+    "requiredTech": "Mathematics",
+    "requiredResource": "Iron",
     "uniques": [
       "Must set up to ranged attack",
       "[+250]% Strength <vs cities>"
