@@ -9,7 +9,9 @@
     "startBias": ["Coast"],
     "uniqueName": "Land of Faith and Truth",
     "uniques": [
-      "Starts with [Sailing]"
+      "Starts with [Sailing]",
+      "[+30]% Strength <for [Siege] units>",
+      "[+30]% Strength <vs [Barbarians]>"
     ],
     "cities": [
       "LFT Şehri",
