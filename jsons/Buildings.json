@@ -10,7 +10,7 @@
   },
   {
     "name": "Auschwitz",
-    "uniqueTo": "SwordOfChaos",
+    "uniqueTo": "Chaos",
     "cost": 300,
     "production": 40,
     "requiredTech": "Mining"
