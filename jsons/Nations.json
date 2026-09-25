@@ -13,9 +13,16 @@
       "Starts with [Sailing]",
       "Free [Great General] appears",
 
-      "[+25]% Strength <vs [Barbarians]>",
-      "[+10]% Strength <when attacking>",
+      "[-66]% Strength <for [Military] units> <when fighting units from a Civilization with fewer Cities than you>",
+
+      
+      "[+33]% Strength <for [Military] units> <when fighting units from a Civilization with more Cities than you>",
+      "[+66]% Strength <for [Water] units> <when fighting units from a Civilization with more Cities than you>",
+      
+      "[+25]% Strength <vs [Barbarians]>",  
+      
       "[+10]% Strength <when defending>",
+      
       "[+15]% Strength <vs cities> <when attacking>",
 
       "Earn [66]% of killed [Military] unit's [Strength] as [Gold]",
@@ -24,22 +31,14 @@
       "Earn [33]% of killed [Barbarian] unit's [Strength] as [Happiness]",
 
       "[+1] Sight <for [{Military} {Land}] units>",
+      "[+3] Sight <for [Water] units>",
       "[+3] Movement <for [Water] units>",
       "[+33]% Strength <for [Water] units>",
       "[+50]% Strength <for [Water] units> <vs [Barbarians]>",
-      "When defeating a [{Barbarian} {Water}] unit, earn [25] Gold",
       "Gain a free [Harbor] [in all coastal cities]",
 
       "Great General provides double combat bonus",
       "[Great General] is earned [50]% faster",
-
-      "[-75]% Gold <in all cities> <when number of [Cities] is more than [5]>",
-      "[-80]% Science <in all cities> <when number of [Cities] is more than [5]>",
-      "[-50]% Production <in all cities> <when number of [Cities] is more than [5]>",
-      "[-80]% Culture <in all cities> <when number of [Cities] is more than [5]>",
-      "[-80]% Food <in all cities> <when number of [Cities] is more than [5]>",
-      "[-70]% Strength <for all units> <when number of [Cities] is more than [5]>",
-      "[+100]% unhappiness from the number of cities <when number of [Cities] is more than [5]>"
     ],
     "cities": [
       "LFT Şehri",
