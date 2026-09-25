@@ -1,38 +1,43 @@
 [
   {
     "name": "LFT Okçu",
-    "unitType": "Ranged",
-    "replaces": "Archer",
+    "unitType": "Archery",
     "uniqueTo": "LFT",
+    "replaces": "Archer",
     "movement": 3,
-    "strength": 10,
-    "rangedStrength": 14,
+    "strength": 8,
+    "rangedStrength": 9,
     "range": 2,
-    "cost": 70,
+    "cost": 50,
     "requiredTech": "Archery"
   },
   {
     "name": "LFT Piyade",
-    "unitType": "Melee",
-    "replaces": "Swordsman",
+    "unitType": "Sword",
     "uniqueTo": "LFT",
+    "replaces": "Swordsman",
     "movement": 3,
-    "strength": 20,
-    "cost": 100,
+    "strength": 18,
+    "cost": 80,
     "requiredTech": "Iron Working",
     "requiredResource": "Iron"
   },
   {
     "name": "LFT Mancınık",
     "unitType": "Siege",
-    "replaces": "Catapult",
     "uniqueTo": "LFT",
+    "replaces": "Catapult",
     "movement": 3,
-    "strength": 12,
-    "rangedStrength": 18,
+    "strength": 8,
+    "rangedStrength": 15,
     "range": 2,
     "cost": 150,
     "requiredTech": "Mathematics",
-    "requiredResource": "Iron"
+    "requiredResource": "Iron",
+    "uniques": [
+      "[+250]% Strength <vs cities> <when attacking>",
+      "No defensive terrain bonus",
+      "Must set up to ranged attack"
+    ]
   }
 ]
