@@ -7,6 +7,15 @@
     "requiredTech": "Construction"
   },
   {
+  "name": "Elmas Madeni",
+  "uniqueTo": "LFT",
+  "cost": 300,
+  "requiredTech": "Mining",
+  "uniques": [
+    "[+30] Production"
+  ]
+  },
+  {
     "name": "LFT Yer Altı Fabrikası",
     "uniqueTo": "LFT",
     "cost": 200,
