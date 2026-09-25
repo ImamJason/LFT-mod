@@ -20,7 +20,10 @@
     "strength": 18,
     "cost": 80,
     "requiredTech": "Iron Working",
-    "requiredResource": "Iron"
+    "requiredResource": "Iron",
+    "promotions": [
+      "LFT Savunma Zırhı"
+    ]
   },
   {
     "name": "LFT Mancınık",
