@@ -56,23 +56,22 @@
     "uniqueName": "Sword Of Chaos",
 
     "uniques": [
-      "Starts with [Pottery]",
 
       "[+2 Science] from every specialist [in all cities]",
       "[+3 Science] per [3] population [in all cities]",
       "[+2 Science] from every [Great Improvement]",
 
-      "[+50]% [Science] [in all cities]",    
+      "[+66]% [Science] [in all cities]",    
 
-      "[Great Scientist] is earned [100]% faster",
+      "[Great Scientist] is earned [25]% faster",
       "Receive a tech boost when scientific buildings/wonders are built in capital",
 
-      "[+66]% Production when constructing [Science] buildings [in all cities]",
+      "[+100]% Production when constructing [Science] buildings [in all cities]",
 
-      "[-20]% Strength <for [Military] units>",
-      "[-15]% Strength <vs [Barbarians]>",
+      "[-10]% Strength <for [Military] units>",
+      "[-1]% Strength <vs [Barbarians]>",
 
-      "[-45]% [Faith] [in all cities]",
+      "[-90]% [Faith] [in all cities]",
     ],
 
     "cities": [
