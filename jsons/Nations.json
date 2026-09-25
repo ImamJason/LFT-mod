@@ -44,13 +44,14 @@
       "Tuzakçı"
     ]
   },
+
   {
     "name": "Chaos",
     "leaderName": "SwordOfChaos",
     "adjective": ["SOC"],
     "outerColor": [212, 175, 55],
     "innerColor": [255, 255, 255],
-    "preferredVictoryType": "Science",
+    "preferredVictoryType": "Scientific",
     "startBias": ["Coast"],
     "uniqueName": "Sword Of Chaos",
 
@@ -59,23 +60,22 @@
 
       "[+2 Science] from every specialist [in all cities]",
       "[+1 Science] per [3] population [in all cities]",
-      "[+2 Science] from [Great Improvement]",
-      "[+25]% Science [in all cities]",
-      "[+10]% Science <when [Happiness] is above [0]>",
+      "[+2 Science] from every [Great Improvement]",
 
-      "Great Scientists are earned [25]% faster",
+      "[+25]% [Science] [in all cities]",
+      "[+10]% [Science] [in all cities] <when [Happiness] is above [0]>",
+
+      "[Great Scientist] is earned [25]% faster",
       "Great Scientist provides double Science",
       "Receive a tech boost when scientific buildings/wonders are built in capital",
 
       "[+10]% Production when constructing [Science] buildings [in all cities]",
-      "[+1] Science from [University] [in all cities]",
-      "[+1] Science from [Library] [in all cities]",
 
       "[-20]% Strength <for [Military] units>",
-      "[-20]% Production when constructing [Military] units [in all cities]",
+      "[-20]% Production when constructing [Military] units [in all cities]>",
       "[-5]% Strength <vs [Barbarians]>",
 
-      "[-33]% Faith [in all cities]",
+      "[-33]% [Faith] [in all cities]",
       "[-15]% Production when constructing [Religious] buildings [in all cities]"
     ],
 
