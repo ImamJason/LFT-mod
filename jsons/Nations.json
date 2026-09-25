@@ -11,13 +11,15 @@
     "uniques": [
       "Starts with [Pottery]",
       "Starts with [Sailing]",
-      "[+30]% Strength <for [Siege] units>",
-      "[+30]% Strength <vs [Barbarians]>",
+      "[+33]% Strength <for [Siege] units>",
+      "[+33]% Strength <vs [Barbarians]>",
       "[+15]% Strength <when attacking>",
       "[+15]% Strength <when defending>",
       "[+20]% Strength <vs cities> <when attacking>",
       "Earn [50]% of killed [Military] unit's [Strength] as [Gold]",
-      "Earn [50]% of killed [Barbarian] unit's [Strength] as [Science]",
+      "Earn [50]% of killed [Military] unit's [Strength] as [Science]",
+      "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
+      "Great General provides triple combat bonus",
       "[Great General] is earned [50]% faster"
     ],
     "cities": [
