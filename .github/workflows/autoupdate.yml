@@ -2,21 +2,35 @@ name: Update Atlas
 
 on:
   push:
-    branches:
-      - main
+    branches: ["main"]
+  workflow_dispatch:
 
 jobs:
-  pack:
+  unciv-lint:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Pack atlas
-        uses: yairm210/Unciv-Atlas-Packer@master
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: "temurin"
+          java-version: 21
 
-      - name: Commit atlas
+      - name: Download Unciv
+        run: |
+          unciv_url=$(curl -sL https://api.github.com/repos/yairm210/Unciv/releases/latest | grep -o "http.*Unciv.jar")
+          wget -q -O Unciv.jar "$unciv_url"
+
+      - name: Update texture atlas
+        run: |
+          java -jar Unciv.jar mod-ci
+
+      - name: Remove Unciv
+        run: rm Unciv.jar
+
+      - name: Commit updated atlas
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update texture atlas"
