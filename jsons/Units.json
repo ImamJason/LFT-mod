@@ -5,10 +5,10 @@
     "replaces": "Archer",
     "uniqueTo": "LFT",
     "movement": 3,
-    "strength": 8,
-    "rangedStrength": 9,
-    "range": 3,
-    "cost": 50,
+    "strength": 10,
+    "rangedStrength": 14,
+    "range": 2,
+    "cost": 70,
     "requiredTech": "Archery"
   },
   {
@@ -17,13 +17,10 @@
     "replaces": "Swordsman",
     "uniqueTo": "LFT",
     "movement": 3,
-    "strength": 18,
-    "cost": 80,
+    "strength": 20,
+    "cost": 100,
     "requiredTech": "Iron Working",
-    "requiredResource": "Iron",
-    "promotions": [
-      "LFT Savunma Zırhı"
-    ]
+    "requiredResource": "Iron"
   },
   {
     "name": "LFT Mancınık",
@@ -31,15 +28,11 @@
     "replaces": "Catapult",
     "uniqueTo": "LFT",
     "movement": 3,
-    "strength": 8,
-    "rangedStrength": 15,
-    "range": 3,
+    "strength": 12,
+    "rangedStrength": 18,
+    "range": 2,
     "cost": 150,
     "requiredTech": "Mathematics",
-    "requiredResource": "Iron",
-    "uniques": [
-      "Must set up to ranged attack",
-      "[+250]% Strength <vs cities>"
-    ]
+    "requiredResource": "Iron"
   }
 ]
