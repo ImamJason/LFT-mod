@@ -4,7 +4,7 @@
     "unitType": "Archery",
     "uniqueTo": "LFT",
     "replaces": "Archer",
-    "movement": 3,
+    "movement": 4,
     "strength": 8,
     "rangedStrength": 9,
     "range": 2,
@@ -16,8 +16,8 @@
     "unitType": "Civilian",
     "uniqueTo": "LFT",
     "replaces": "Settler",
-    "movement": 8,
-    "cost": 3000,
+    "movement": 20,
+    "cost": 1800,
     "requiredTech": "Agriculture",
     "uniques": [
       "Founds a new city <by consuming this unit>"
@@ -28,7 +28,7 @@
     "unitType": "Melee",
     "uniqueTo": "LFT",
     "replaces": "Swordsman",
-    "movement": 3,
+    "movement": 5,
     "strength": 18,
     "cost": 80,
     "requiredTech": "Iron Working",
@@ -39,7 +39,7 @@
     "unitType": "Siege",
     "uniqueTo": "LFT",
     "replaces": "Catapult",
-    "movement": 3,
+    "movement": 4,
     "strength": 8,
     "rangedStrength": 15,
     "range": 2,
@@ -51,5 +51,21 @@
       "No defensive terrain bonus",
       "Must set up to ranged attack"
     ]
+  }  
+  {
+  "name": "LFT Küçük Donanma",
+  "unitType": "Melee Water",
+  "uniqueTo": "LFT",
+  "replaces": "Trireme",
+  "movement": 10,
+  "strength": 18,
+  "cost": 90,
+  "requiredTech": "Sailing",
+  "obsoleteTech": "Astronomy",
+  "upgradesTo": "Caravel",
+  "uniques": [
+    "Never appears as a Barbarian unit"
+  ],
+  "attackSound": "nonmetalhit"
   }
 ]
