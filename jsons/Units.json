@@ -4,37 +4,31 @@
     "unitType": "Ranged",
     "replaces": "Archer",
     "uniqueTo": "LFT",
-    "movement": 2,
-    "strength": 5,
-    "rangedStrength": 7,
-    "range": 2,
-    "cost": 40,
-    "uniques": [
-      "[1] Range"
-    ]
+    "movement": 3,
+    "strength": 8,
+    "rangedStrength": 9,
+    "range": 3,
+    "cost": 50
   },
   {
     "name": "LFT Piyade",
     "unitType": "Melee",
     "replaces": "Swordsman",
     "uniqueTo": "LFT",
-    "movement": 2,
-    "strength": 14,
-    "cost": 75,
-    "uniques": [
-      "[+100]% Strength <when defending>"
-    ]
+    "movement": 3,
+    "strength": 18,
+    "cost": 80
   },
   {
-    "name": "LFT Balista",
+    "name": "LFT Mancınık",
     "unitType": "Siege",
     "replaces": "Catapult",
     "uniqueTo": "LFT",
-    "movement": 2,
+    "movement": 3,
     "strength": 8,
-    "rangedStrength": 14,
-    "range": 2,
-    "cost": 100,
+    "rangedStrength": 15,
+    "range": 3,
+    "cost": 150,
     "uniques": [
       "Must set up to ranged attack",
       "[+250]% Strength <vs cities>"
