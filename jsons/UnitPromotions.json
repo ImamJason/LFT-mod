@@ -1,0 +1,9 @@
+[
+  {
+    "name": "LFT Savunma Zırhı",
+    "unitTypes": ["Melee"],
+    "uniques": [
+      "[+100]% Strength <when defending>"
+    ]
+  }
+]
