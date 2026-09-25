@@ -12,8 +12,20 @@
     "requiredTech": "Archery"
   },
   {
+    "name": "LFT Settler",
+    "unitType": "Civilian",
+    "uniqueTo": "LFT",
+    "replaces": "Settler",
+    "movement": 8,
+    "cost": 3000,
+    "requiredTech": "Agriculture",
+    "uniques": [
+      "Founds a new city <by consuming this unit>"
+    ]
+  },
+  {
     "name": "LFT Piyade",
-    "unitType": "Sword",
+    "unitType": "Melee",
     "uniqueTo": "LFT",
     "replaces": "Swordsman",
     "movement": 3,
