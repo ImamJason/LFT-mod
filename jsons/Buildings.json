@@ -9,6 +9,13 @@
     "requiredTech": "Construction"
   },
   {
+    "name": "Auschwitz",
+    "uniqueTo": "SwordOfChaos",
+    "cost": 300,
+    "production": 40,
+    "requiredTech": "Mining"
+  },
+  {
     "name": "Elmas Madeni",
     "uniqueTo": "LFT",
     "cost": 220,
