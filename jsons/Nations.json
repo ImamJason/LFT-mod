@@ -62,17 +62,17 @@
       "[+3 Science] per [3] population [in all cities]",
       "[+2 Science] from every [Great Improvement]",
 
-      "[+33]% [Science] [in all cities]",    
+      "[+50]% [Science] [in all cities]",    
 
-      "[Great Scientist] is earned [50]% faster",
+      "[Great Scientist] is earned [100]% faster",
       "Receive a tech boost when scientific buildings/wonders are built in capital",
 
-      "[+25]% Production when constructing [Science] buildings [in all cities]",
+      "[+66]% Production when constructing [Science] buildings [in all cities]",
 
       "[-20]% Strength <for [Military] units>",
-      "[-10]% Strength <vs [Barbarians]>",
+      "[-15]% Strength <vs [Barbarians]>",
 
-      "[-40]% [Faith] [in all cities]",
+      "[-45]% [Faith] [in all cities]",
     ],
 
     "cities": [
