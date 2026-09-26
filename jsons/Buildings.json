@@ -9,16 +9,6 @@
     "happiness": 10,
     "requiredTech": "Construction"
   },
-    {
-    "name": "LFT Ağaç Ev",
-    "uniqueTo": "LFTai",
-    "cost": 80,
-    "gold": 10,
-    "production": 10,
-    "food": 80,
-    "happiness": 10,
-    "requiredTech": "Construction"
-  },
   {
     "name": "İşcilik Merkezi",
     "uniqueTo": "Chaos",
@@ -63,15 +53,6 @@
   "requiredTech": "Industrialization"
 },
   {
-  "name": "Karanlık Madde Santrali",
-  "uniqueTo": "LFTai",
-  "cost": 1000,
-  "science": 300,
-  "gold": 3000,
-  "production": 500,
-  "requiredTech": "Industrialization"
-}
-  {
     "name": "Üretim Tesisi",
     "uniqueTo": "LFT",
     "cost": 180,
@@ -79,24 +60,8 @@
     "requiredTech": "Mining"
   },
   {
-    "name": "Üretim Tesisi",
-    "uniqueTo": "LFTai",
-    "cost": 180,
-    "production": 35,
-    "requiredTech": "Mining"
-  },
-  {
     "name": "Yastık Tarikatı",
     "uniqueTo": "LFT",
-    "cost": 700,
-    "science": 50,
-    "gold": 500,
-    "production": 120,
-    "requiredTech": "Engineering"
-  },
-  {
-    "name": "Yastık Tarikatı",
-    "uniqueTo": "LFTai",
     "cost": 700,
     "science": 50,
     "gold": 500,
