@@ -60,7 +60,7 @@
   "outerColor": [0, 0, 0],
   "innerColor": [255, 215, 0],
   "preferredVictoryType": "Domination",
-  "startBias": ["Hill"],
+  "startBias": ["Desert"],
   "uniqueName": "Şeytanlar Irkı",
 
   "uniques": [
@@ -74,8 +74,12 @@
     "[+100]% Gold [in all cities]",
     "[+100]% Culture [in all cities]",
     "[+10] Happiness",
-
-    "[+50]% Strength <for [Military] units>",
+    "[+2 Science] per [3] population [in all cities]",
+    "[+2 Production] per [3] population [in all cities]",
+    "[+2 Gold] per [3] population [in all cities]",
+    
+    "[+50]% Strength <for [Military] units> <when fighting units from a Civilization with more Cities than you>",
+    "[+50]% Strength <for [Water] units> <when fighting units from a Civilization with more Cities than you>",
     "[+100]% Strength <for [Barbarians] units>",
     "[+50]% Strength <for [Water] units>",
     "[+3] Movement <for [Military] units>",
@@ -100,13 +104,13 @@
     "outerColor": [212, 175, 55],
     "innerColor": [255, 255, 255],
     "preferredVictoryType": "Scientific",
-    "startBias": ["Desert"],
+    "startBias": ["Hill"],
     "uniqueName": "Sword Of Chaos",
 
     "uniques": [
 
       "[+3 Science] from every specialist [in all cities]",
-      "[+1 Science] per [1] population [in all cities]",
+      "[+1 Science] per [2] population [in all cities]",
       "[+2 Science] from every [Great Improvement]",
 
       "[+33]% [Science] [in all cities]",
