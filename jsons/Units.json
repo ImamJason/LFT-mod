@@ -16,7 +16,7 @@
     "uniqueTo": "LFT",
     "replaces": "Settler",
     "movement": 30,
-    "cost": 2000,
+    "cost": 1800,
     "requiredTech": "Agriculture",
     "uniques": [
       "Founds a new city <by consuming this unit>"
