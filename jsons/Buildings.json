@@ -6,31 +6,32 @@
     "gold": 10,
     "production": 10,
     "food": 80,
+    "happiness": 10,
     "requiredTech": "Construction"
   },
   {
-    "name": "Auschwitz",
+    "name": "İşcilik Merkezi",
     "uniqueTo": "Chaos",
     "cost": 300,
-    "production": 40,
+    "production": 30,
     "requiredTech": "Mining"
   },
   {
-    "name": "Nükleer Santral",
+    "name": "Bilim Tesisi",
     "uniqueTo": "Chaos",
-    "cost": 350,
-    "science": 50,
-    "gold": 40,
-    "production": 75,
-    "requiredTech": "Construction"
+    "cost": 600,
+    "science": 30,
+    "gold": 25,
+    "production": 30,
+    "requiredTech": "Engineering"
   },
   {
     "name": "Ark Reaktörü Santrali",
     "uniqueTo": "Chaos",
     "cost": 3000,
-    "science": 200,
+    "science": 100,
     "gold": 100,
-    "production": 400,
+    "production": 100,
     "requiredTech": "Industrialization"
   },
   {
@@ -46,25 +47,25 @@
   "name": "Karanlık Madde Santrali",
   "uniqueTo": "LFT",
   "cost": 1000,
-  "science": 1000,
+  "science": 300,
   "gold": 3000,
   "production": 500,
-  "requiredTech": "Particle Physics"
+  "requiredTech": "Industrialization"
 }
   {
     "name": "Üretim Tesisi",
     "uniqueTo": "LFT",
-    "cost": 100,
-    "production": 45,
+    "cost": 180,
+    "production": 35,
     "requiredTech": "Mining"
   },
   {
     "name": "Yastık Tarikatı",
     "uniqueTo": "LFT",
-    "cost": 500,
-    "science": 300,
+    "cost": 700,
+    "science": 50,
     "gold": 500,
-    "production": 200,
-    "requiredTech": "Industrialization"
+    "production": 120,
+    "requiredTech": "Engineering"
   }
 ]
