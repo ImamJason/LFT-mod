@@ -68,11 +68,10 @@
     "Starts with [Mining]",
     "Starts with [Archery]",
 
-    "[+100]% Production [in all cities]",
-    "[+100]% Science [in all cities]",
-    "[+100]% Gold [in all cities]",
-    "[+100]% Culture [in all cities]",
-    "[+10] Happiness",
+    "[+100]% [Production] [in all cities]",
+    "[+100]% [Science] [in all cities]",
+    "[+100]% [Gold] [in all cities]",
+    "[+100]% [Culture] [in all cities]",
     "[+2 Science] per [3] population [in all cities]",
     "[+2 Production] per [3] population [in all cities]",
     "[+2 Gold] per [3] population [in all cities]",
@@ -81,11 +80,12 @@
     "[+50]% Strength <for [Water] units> <when fighting units from a Civilization with more Cities than you>",
     "[+100]% Strength <for [Barbarians] units>",
     "[+50]% Strength <for [Water] units>",
-    "[+3] Movement <for [Military] units>",
-    "[+3] Sight <for [Military] units>",
+    "[+1] Sight <for [Military] units>",
 
     "[+100]% Production when constructing [Military] units [in all cities]",
     "[-500]% [Faith] [in all cities]",
+    "[-20]% Strength <vs cities> <when attacking>",
+    "[+200]% Gold cost of acquiring tiles [in all cities]",
 
     "Great General provides double combat bonus",
     "[Great General] is earned [100]% faster"
