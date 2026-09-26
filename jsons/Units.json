@@ -12,12 +12,24 @@
     "requiredTech": "Archery"
   },
   {
-    "name": "LFT Settler",
+    "name": "LFT Yerleşimci",
     "unitType": "Civilian",
     "uniqueTo": "LFT",
     "replaces": "Settler",
-    "movement": 20,
+    "movement": 30,
     "cost": 1800,
+    "requiredTech": "Agriculture",
+    "uniques": [
+      "Founds a new city <by consuming this unit>"
+    ]
+  },
+  {
+    "name": "Chaos Yerleşimci",
+    "unitType": "Civilian",
+    "uniqueTo": "Chaos",
+    "replaces": "Settler",
+    "movement": 6,
+    "cost": 400,
     "requiredTech": "Agriculture",
     "uniques": [
       "Founds a new city <by consuming this unit>"
