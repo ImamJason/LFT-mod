@@ -16,7 +16,7 @@
     "uniqueTo": "LFT",
     "replaces": "Settler",
     "movement": 30,
-    "cost": 1800,
+    "cost": 1300,
     "requiredTech": "Agriculture",
     "uniques": [
       "Founds a new city <by consuming this unit>"
@@ -27,7 +27,7 @@
     "unitType": "Civilian",
     "uniqueTo": "Şeytanlar Irkı",
     "replaces": "Settler",
-    "movement": 3,
+    "movement": 0,
     "cost": 100000,
     "requiredTech": "Agriculture",
     "uniques": [
