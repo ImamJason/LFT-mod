@@ -23,6 +23,18 @@
     ]
   },
   {
+    "name": "Şeytan Yerleşimci",
+    "unitType": "Civilian",
+    "uniqueTo": "Şeytanlar Irkı",
+    "replaces": "Settler",
+    "movement": 30,
+    "cost": 100000,
+    "requiredTech": "Agriculture",
+    "uniques": [
+      "Founds a new city <by consuming this unit>"
+    ]
+  },
+  {
     "name": "Chaos Yerleşimci",
     "unitType": "Civilian",
     "uniqueTo": "Chaos",
