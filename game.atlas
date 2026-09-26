@@ -1,0 +1,27 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Chaos
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/LFT
+  rotate: false
+  xy: 1266, 1266
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+file_0000000091988246b75cd49417c8d4ad
+  rotate: false
+  xy: 4, 212
+  size: 1254, 1254
+  orig: 1254, 1254
+  offset: 0, 0
+  index: -1
