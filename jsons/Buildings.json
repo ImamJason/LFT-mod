@@ -34,7 +34,25 @@
     "requiredTech": "Industrialization"
   },
   {
-    "name": "Elmas Madeni",
+  "name": "Kuantum Bilgi Merkezi",
+  "uniqueTo": "Chaos",
+  "cost": 4000,
+  "science": 500,
+  "gold": 150,
+  "production": 250,
+  "requiredTech": "Particle Physics"
+},
+  {
+  "name": "Karanlık Madde Santrali",
+  "uniqueTo": "LFT",
+  "cost": 1000,
+  "science": 1000,
+  "gold": 3000,
+  "production": 500,
+  "requiredTech": "Particle Physics"
+}
+  {
+    "name": "Üretim Tesisi",
     "uniqueTo": "LFT",
     "cost": 100,
     "production": 45,
