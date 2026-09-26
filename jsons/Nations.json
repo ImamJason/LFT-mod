@@ -19,15 +19,16 @@
       "[+25]% Strength <vs [Barbarians]>",
       "[+10]% Strength <when defending>",
       "[+15]% Strength <vs cities> <when attacking>",
+      "[-90]% [Faith] [in all cities]",
 
-      "Earn [66]% of killed [Military] unit's [Strength] as [Gold]",
-      "Earn [50]% of killed [Military] unit's [Strength] as [Science]",
-      "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
+      "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
+      "Earn [100]% of killed [Military] unit's [Strength] as [Science]",
+      "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
       "Earn [100]% of killed [Military] unit's [Strength] as [Happiness]",
       "Earn [300]% of killed [Military] unit's [Strength] as [Faith]",
 
-      "[+1] Sight <for [{Military} {Land}] units>",
-      "[+3] Sight <for [Water] units>",
+      "[+2] Sight <for [{Military} {Land}] units>",
+      "[+5] Sight <for [Water] units>",
       "[+3] Movement <for [Water] units>",
       "[+33]% Strength <for [Water] units>",
       "[+50]% Strength <for [Water] units> <vs [Barbarians]>",
@@ -53,7 +54,7 @@
     "outerColor": [212, 175, 55],
     "innerColor": [255, 255, 255],
     "preferredVictoryType": "Scientific",
-    "startBias": ["Coast"],
+    "startBias": ["Desert"],
     "uniqueName": "Sword Of Chaos",
 
     "uniques": [
