@@ -61,7 +61,7 @@
   "outerColor": [139, 0, 0],
   "innerColor": [255, 0, 0],
   "preferredVictoryType": "Domination",
-  "startBias": ["Snow"],
+  "startBias": ["Tundra"],
   "uniqueName": "Şeytanlar Irkı",
 
   "uniques": [
