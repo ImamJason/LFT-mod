@@ -68,6 +68,7 @@
     "Starts with [Pottery]",
     "Starts with [Mining]",
     "Starts with [Archery]",
+    "Cannot build [Settler] units",
 
     "[+100]% [Production] [in all cities]",
     "[+100]% [Science] [in all cities]",
