@@ -15,7 +15,6 @@
 
       "[+33]% Strength <for [Military] units> <when fighting units from a Civilization with more Cities than you>",
       "[+66]% Strength <for [Water] units> <when fighting units from a Civilization with more Cities than you>",
-
       "[+25]% Strength <vs [Barbarians]>",
       "[+15]% Strength <when defending>",
       "[+15]% Strength <vs cities> <when attacking>",
@@ -36,11 +35,12 @@
       "[+50]% Strength <for [Water] units> <vs [Barbarians]>",
       "Gain a free [Harbor] [in all coastal cities]",
 
-      "Comment [-50% maintenance costs for Water units]",
-      "Comment [-50% maintenance costs for Land units]",
+      "[-50]% Gold cost of acquiring tiles [in all cities]",
+      "[+10]% Science cost of researching new Technologies",
+      "[-5 Science] [in all cities] <before discovering [Theology]>",
+      "[-5 Culture] [in all cities] <before discovering [Theology]>",
 
-
-
+      
       "Great General provides double combat bonus",
       "[Great General] is earned [50]% faster"
     ],
