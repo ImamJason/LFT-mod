@@ -50,7 +50,7 @@
     "unitType": "Civilian",
     "uniqueTo": "Şeytanlar Irkı",
     "replaces": "Settler",
-    "movement": 0,
+    "movement": 1,
     "cost": 100000,
     "requiredTech": "Agriculture",
     "uniques": [
@@ -62,7 +62,7 @@
     "unitType": "Civilian",
     "uniqueTo": "Chaos",
     "replaces": "Settler",
-    "movement": 6,
+    "movement": 4,
     "cost": 400,
     "requiredTech": "Agriculture",
     "uniques": [
