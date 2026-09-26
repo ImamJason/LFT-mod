@@ -19,7 +19,7 @@
     "name": "Nükleer Santral",
     "uniqueTo": "Chaos",
     "cost": 350,
-    "science": 100,
+    "science": 50,
     "gold": 40,
     "production": 75,
     "requiredTech": "Construction"
@@ -27,26 +27,26 @@
   {
     "name": "Ark Reaktörü Santrali",
     "uniqueTo": "Chaos",
-    "cost": 666,
-    "science": 300,
+    "cost": 3000,
+    "science": 200,
     "gold": 100,
-    "production": 500,
+    "production": 400,
     "requiredTech": "Industrialization"
   },
   {
     "name": "Elmas Madeni",
     "uniqueTo": "LFT",
     "cost": 100,
-    "production": 30,
+    "production": 45,
     "requiredTech": "Mining"
   },
   {
     "name": "Yastık Tarikatı",
     "uniqueTo": "LFT",
-    "cost": 200,
-    "science": 100,
-    "gold": 250,
-    "production": 100,
+    "cost": 500,
+    "science": 300,
+    "gold": 500,
+    "production": 200,
     "requiredTech": "Industrialization"
   }
 ]
