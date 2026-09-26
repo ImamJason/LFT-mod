@@ -53,6 +53,45 @@
       "Tuzakçı"
     ]
   },
+  {
+  "name": "Şeytanlar Irkı",
+  "leaderName": "Trigon",
+  "adjective": ["Şeytanlar Irkı"],
+  "outerColor": [0, 0, 0],
+  "innerColor": [255, 215, 0],
+  "preferredVictoryType": "Domination",
+  "startBias": ["Hill"],
+  "uniqueName": "Şeytanlar Irkı",
+
+  "uniques": [
+    "Starts with [Pottery]",
+    "Starts with [Mining]",
+    "Starts with [Archery]",
+    "Starts with [Iron Working]",
+
+    "[+100]% Production [in all cities]",
+    "[+100]% Science [in all cities]",
+    "[+100]% Gold [in all cities]",
+    "[+100]% Culture [in all cities]",
+    "[+10] Happiness",
+
+    "[+50]% Strength <for [Military] units>",
+    "[+100]% Strength <for [Barbarians] units>",
+    "[+50]% Strength <for [Water] units>",
+    "[+3] Movement <for [Military] units>",
+    "[+3] Sight <for [Military] units>",
+
+    "[+100]% Production when constructing [Military] units [in all cities]",
+    "[-500]% [Faith] [in all cities]",
+
+    "Great General provides double combat bonus",
+    "[Great General] is earned [100]% faster"
+  ],
+
+  "cities": [
+    "Cehennem"
+  ]
+  },
 
   {
     "name": "Chaos",
