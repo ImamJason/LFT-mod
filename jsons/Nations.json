@@ -19,10 +19,10 @@
       "[+15]% Strength <when defending>",
       "[+15]% Strength <vs cities> <when attacking>",
       "[+100]% [Faith] [in all cities]",
-      "[+3 Happiness] per [3] population [in all cities]",
+      "[+4 Happiness] per [4] population [in all cities]",
 
       "Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
-      "Earn [100]% of killed [Barbarian] unit's [Strength] as [Gold]",
+      "Earn [50]% of killed [Barbarian] unit's [Strength] as [Gold]",
       "Earn [100]% of killed [Military] unit's [Strength] as [Science]",
       "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
       "Earn [100]% of killed [Military] unit's [Strength] as [Happiness]",
@@ -94,14 +94,15 @@
     "[-99]% [Faith] [in all cities]",
     "[+25]% Strength <vs cities> <when attacking>",
     "[+300]% Gold cost of acquiring tiles [in all cities]",
-    "[-66]% Strength <when defending>",
+    "[-50]% Strength <when defending>",
 
     "Great General provides double combat bonus",
     "[Great General] is earned [100]% faster"
   ],
 
   "cities": [
-    "Cehennem"
+    "Cehennem",
+    "Kıyamet Şehri"
   ]
   },
 
@@ -118,10 +119,10 @@
     "uniques": [
 
       "[+3 Science] from every specialist [in all cities]",
-      "[+1 Science] per [2] population [in all cities]",
+      "[+3 Science] per [4] population [in all cities]",
       "[+2 Science] from every [Great Improvement]",
 
-      "[+50]% [Science] [in all cities]",      
+      "[+66]% [Science] [in all cities]",      
       "[-25]% Science cost of researching new Technologies",
 
       "[Great Scientist] is earned [33]% faster",
