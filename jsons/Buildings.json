@@ -2,17 +2,17 @@
   {
     "name": "LFT Ağaç Ev",
     "uniqueTo": "LFT",
-    "cost": 80,
-    "gold": 10,
+    "cost": 150,
+    "gold": 15,
     "production": 10,
-    "food": 80,
+    "food": 50,
     "happiness": 10,
     "requiredTech": "Construction"
   },
   {
     "name": "İşcilik Merkezi",
     "uniqueTo": "Chaos",
-    "cost": 300,
+    "cost": 240,
     "production": 30,
     "requiredTech": "Mining"
   },
@@ -28,16 +28,16 @@
   {
     "name": "Ark Reaktörü Santrali",
     "uniqueTo": "Chaos",
-    "cost": 3000,
+    "cost": 2400,
     "science": 100,
-    "gold": 100,
-    "production": 100,
+    "gold": 75,
+    "production": 75,
     "requiredTech": "Industrialization"
   },
   {
   "name": "Kuantum Bilgi Merkezi",
   "uniqueTo": "Chaos",
-  "cost": 4000,
+  "cost": 3300,
   "science": 500,
   "gold": 150,
   "production": 250,
@@ -46,26 +46,26 @@
   {
   "name": "Karanlık Madde Santrali",
   "uniqueTo": "LFT",
-  "cost": 1000,
-  "science": 300,
-  "gold": 3000,
-  "production": 500,
+  "cost": 1500,
+  "science": 150,
+  "gold": 125,
+  "production": 100,
   "requiredTech": "Industrialization"
 },
   {
     "name": "Üretim Tesisi",
     "uniqueTo": "LFT",
     "cost": 180,
-    "production": 35,
+    "production": 20,
     "requiredTech": "Mining"
   },
   {
     "name": "Yastık Tarikatı",
     "uniqueTo": "LFT",
-    "cost": 700,
-    "science": 50,
-    "gold": 500,
-    "production": 120,
+    "cost": 800,
+    "science": 60,
+    "gold": 60,
+    "production": 60,
     "requiredTech": "Engineering"
   }
 ]
