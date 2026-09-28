@@ -3,7 +3,8 @@
     "name": "LFT Ağaç Ev",
     "uniqueTo": "LFT",
     "cost": 150,
-    "gold": 15,
+    "gold": 30,
+    "culture": 20,
     "production": 10,
     "food": 50,
     "happiness": 10,
@@ -48,14 +49,14 @@
   "uniqueTo": "LFT",
   "cost": 1500,
   "science": 150,
-  "gold": 125,
+  "gold": 200,
   "production": 100,
   "requiredTech": "Industrialization"
 },
   {
     "name": "Üretim Tesisi",
     "uniqueTo": "LFT",
-    "cost": 180,
+    "cost": 150,
     "production": 20,
     "requiredTech": "Mining"
   },
@@ -63,8 +64,8 @@
     "name": "Yastık Tarikatı",
     "uniqueTo": "LFT",
     "cost": 800,
-    "science": 60,
-    "gold": 60,
+    "science": 90,
+    "gold": 70,
     "production": 60,
     "requiredTech": "Engineering"
   }
