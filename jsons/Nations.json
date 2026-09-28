@@ -15,8 +15,8 @@
       "Starts with [Sailing]",
       "Free [Great General] appears",
       "Cannot build [Settler] units",
-	  "[+100]% Production when constructing [Military] units [in all cities]",
-      "[+100]% Production when constructing [Culture] buildings [in all cities]",
+	  "[+50]% Production when constructing [Military] units [in all cities]",
+      "[+50]% Production when constructing [Culture] buildings [in all cities]",
 
       "[+33]% Strength <for [Military] units> <when fighting units from a Civilization with more Cities than you>",
       "[+66]% Strength <for [Water] units> <when fighting units from a Civilization with more Cities than you>",
@@ -70,7 +70,7 @@
   "innerColor": [255, 0, 0],
   "preferredVictoryType": "Domination",
   "startBias": ["Tundra"],
-  "personality": "Jason",
+  "personality": "Boss",
   "uniqueName": "Şeytanlar Irkı",
 
   "uniques": [
