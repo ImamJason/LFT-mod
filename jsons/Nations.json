@@ -7,6 +7,8 @@
     "innerColor": [139, 0, 0],
     "preferredVictoryType": "Domination",
     "startBias": ["Coast"],
+    "personality": "Jason",
+		"favoredReligion": "Islam",
     "uniqueName": "Land of Faith and Truth",
     "uniques": [
       "Starts with [Pottery]",
@@ -73,10 +75,10 @@
     "Starts with [Archery]",
     "Cannot build [Settler] units",
 
-    "[+100]% [Production] [in all cities]",
-    "[+100]% [Science] [in all cities]",
-    "[+100]% [Gold] [in all cities]",
-    "[+100]% [Culture] [in all cities]",
+    "[+66]% [Production] [in all cities]",
+    "[+66]% [Science] [in all cities]",
+    "[+66]% [Gold] [in all cities]",
+    "[+66]% [Culture] [in all cities]",
     "[+3 Science] per [2] population [in all cities]",
     "[+3 Production] per [2] population [in all cities]",
     "[+3 Gold] per [2] population [in all cities]",
@@ -85,20 +87,19 @@
     "[+150]% Strength <for [Military] units> <when fighting units from a Civilization with more Cities than you>",
     "[+150]% Strength <for [Water] units> <when fighting units from a Civilization with more Cities than you>",
     "[+1000]% Strength <vs [Barbarians]>",
-    "[+66]% Strength <for [Water] units>",
+    "[+33]% Strength <for [Water] units>",
     "[+66]% Strength <for [Military] units>",
-    "[+3] Sight <for [{Military} {Land}] units>",
-    "[+2] Movement <for [Land] units>",
-    "[+5] Sight <for [Water] units>",
+    "[+2] Sight <for [{Military} {Land}] units>",
+    "[+1] Movement <for [Land] units>",
+    "[+4] Sight <for [Water] units>",
     "[+3] Movement <for [Water] units>",
 
 
 
     "[+100]% Production when constructing [Military] units [in all cities]",
     "[-99]% [Faith] [in all cities]",
-    "[+66]% Strength <vs cities> <when attacking>",
+    "[+33]% Strength <vs cities> <when attacking>",
     "[+300]% Gold cost of acquiring tiles [in all cities]",
-    "[+66]% Strength <when defending>",
 
     "Great General provides double combat bonus",
     "[Great General] is earned [100]% faster"
@@ -137,10 +138,10 @@
       "[-20]% Strength <for [Military] units>",
       "[-10]% Strength <vs [Barbarians]>",
       "Earn [100]% of killed [Barbarians] unit's [Strength] as [Science]",
-      "[+25]% Strength <when defending>",  
+      "[+33]% Strength <when defending>",  
    
-      "[-20]% Strength <vs cities> <when attacking>",
-      "[-3 Science] [in all cities] <before discovering [Mathematics]>",
+      "[-15]% Strength <vs cities> <when attacking>",
+      "[-3 Science] [in all cities] <before discovering [Masonry]>",
       "[-50]% [Faith] [in all cities]"
     ],
 
