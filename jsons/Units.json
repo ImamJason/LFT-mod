@@ -41,7 +41,7 @@
     "uniqueTo": "Chaos",
     "replaces": "Settler",
     "movement": 4,
-    "cost": 400,
+    "cost": 200,
     "requiredTech": "Agriculture",
     "uniques": [
       "Founds a new city <by consuming this unit>"
