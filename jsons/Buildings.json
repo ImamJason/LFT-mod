@@ -64,7 +64,7 @@
     "name": "Yastık Tarikatı",
     "uniqueTo": "LFT",
     "cost": 800,
-    "science": 70,
+    "science": 90,
     "gold": 70,
     "production": 60,
     "requiredTech": "Engineering"
