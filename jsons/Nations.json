@@ -8,7 +8,7 @@
     "preferredVictoryType": "Domination",
     "startBias": ["Coast"],
     "personality": "Jason",
-		"favoredReligion": "Islam",
+	"favoredReligion": "Islam",
     "uniqueName": "Land of Faith and Truth",
     "uniques": [
       "Starts with [Pottery]",
@@ -67,6 +67,7 @@
   "innerColor": [255, 0, 0],
   "preferredVictoryType": "Domination",
   "startBias": ["Tundra"],
+  "personality": "Jason",
   "uniqueName": "Şeytanlar Irkı",
 
   "uniques": [
