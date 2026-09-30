@@ -62,6 +62,39 @@
       "Tuzakçı"
     ]
   },
+	{
+        "name": "Altınordu Devleti",
+        "leaderName": "Berke Han",
+        "adjective": ["Golden Horde"],
+        "startBias": ["Avoid [Coast]"],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "All bow before Berke Khan, grandson of Genghis, thunder of the steppes. Your riders trampled kingdoms and carried the banner of the Horde from the Caspian to the Danube.",
+        "startIntroPart2": "Great Khan, will you ride again across the plains of history? Can you forge an empire that will stand the test of time?",
+        "declaringWar": "The Horde has come! We will destroy you!",
+        "attacked": "So war has come... it is good: it is time to test the mettle of real men!",
+        "defeated": "I have failed you, grandfather...",
+        "introduction": "You stand before the might of the Mongols. I am Berke, grandson of Gengis Khan, Khan Of The Golden Horde. Tell me, do you prefer peace or violence? I choose the latter.",
+        "neutralHello": "Speak swiftly. I've little patience for those who come with empty hands.",
+        "hateHello": "You breathe like a coward and walk like prey. I am not in a generous mood.",
+        "tradeRequest": "Tribute or trade. You choose the manner in which your wealth reaches the steppes.",
+        "outerColor": [207,176,85],
+        "innerColor": [166,49,63],
+        "uniqueName": "Golden Conquest",
+        "uniques": [
+            "[+50]% [Production] [in puppeted cities]",
+            "[+50]% [Gold] [in puppeted cities]",
+            "[+50]% [Science] [in puppeted cities]",
+            "[-33]% Unhappiness from [Population] [in puppeted cities]"
+        ],
+        "cities": [
+            "Sarai Berke","Kazan","Almaty","Makhachkala","Sarai Juk","Ufa","Astana","Itil",
+            "Tsaritsyn","Narchik","Aqtobe","Aqtau","Bolghar","Tiflis","Qaffa","Sarkel","Tmutorokan","Elista",
+            "Maykop","Magas","Cherkessk","Bugulma","Yelabuga","Samara","Yoshkar Ola"
+        ],
+        "spyNames": [
+            "Asashōryū","Tömöriin","Zevegiin","Jigjidiin","Enkhbat","Mönkhbayar","Gündegmaa","Ssima","Batachikhan","Chulunny"
+        ]
+    },
   {
   "name": "Şeytanlar Irkı",
   "leaderName": "Trigon",
