@@ -68,7 +68,6 @@
     "rangedStrength": 15,
     "range": 3,
     "cost": 180,
-    "promotions": ["Yıkım I","Yıkım II","Zırhlı Mancınık I","Zırhlı Mancınık II"],
     "requiredTech": "Mathematics",
     "upgradesTo": "Cannon",
     "uniques": [
