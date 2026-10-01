@@ -6,15 +6,20 @@
     "gold": 30,
     "culture": 20,
     "production": 10,
-    "food": 50,
+    "food": 30,
     "happiness": 10,
-    "requiredTech": "Construction"
+    "requiredTech": "Construction",
+    "uniques": [
+      "[+100]% Food",
+      "[+100]% Culture",
+      "[+100]% Faith"
+    ]
   },
   {
     "name": "İşcilik Merkezi",
     "uniqueTo": "Chaos",
     "cost": 240,
-    "production": 30,
+    "production": 20,
     "requiredTech": "Mining"
   },
   {
@@ -36,37 +41,51 @@
     "requiredTech": "Industrialization"
   },
   {
-  "name": "Kuantum Bilgi Merkezi",
-  "uniqueTo": "Chaos",
-  "cost": 3300,
-  "science": 500,
-  "gold": 150,
-  "production": 250,
-  "requiredTech": "Particle Physics"
-},
+    "name": "Kuantum Bilgi Merkezi",
+    "uniqueTo": "Chaos",
+    "cost": 3300,
+    "science": 500,
+    "gold": 150,
+    "production": 250,
+    "requiredTech": "Particle Physics"
+  },
   {
-  "name": "Karanlık Madde Santrali",
-  "uniqueTo": "LFT",
-  "cost": 1500,
-  "science": 150,
-  "gold": 200,
-  "production": 100,
-  "requiredTech": "Industrialization"
-},
+    "name": "Karanlık Madde Santrali",
+    "uniqueTo": "LFT",
+    "cost": 1000,
+    "science": 50,
+    "gold": 50,
+    "production": 30,
+    "requiredTech": "Industrialization",
+    "requiredNearbyImprovedResources": [
+      "Iron"
+    ],
+    "uniques": [
+      "[+100]% Production",
+      "[+100]% Gold"
+    ]
+  },
   {
     "name": "Üretim Tesisi",
     "uniqueTo": "LFT",
     "cost": 150,
-    "production": 20,
-    "requiredTech": "Mining"
+    "production": 10,
+    "requiredTech": "Mining",
+    "uniques": [
+      "[+100]% Gold from [Coast] tiles in this city"
+    ]
   },
   {
     "name": "Yastık Tarikatı",
     "uniqueTo": "LFT",
     "cost": 800,
-    "science": 90,
-    "gold": 70,
-    "production": 60,
-    "requiredTech": "Engineering"
+    "science": 20,
+    "gold": 30,
+    "production": 20,
+    "requiredTech": "Engineering",
+    "uniques": [
+      "[+50]% Production",
+      "[+10] Gold from [Coast] tiles in this city"
+    ]
   }
 ]
