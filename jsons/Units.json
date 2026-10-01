@@ -53,6 +53,7 @@
     "uniqueTo": "LFT",
     "replaces": "Swordsman",
     "movement": 2,
+    "promotions": ["LFT Piyade Zırhı"],
     "strength": 18,
     "cost": 80,
     "requiredTech": "Iron Working",
