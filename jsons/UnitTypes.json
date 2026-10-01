@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LFT Archery",
+    "movementType": "Land"
+  },
+  {
+    "name": "LFT Melee",
+    "movementType": "Land"
+  },
+  {
+    "name": "LFT Siege",
+    "movementType": "Land"
+  }
+]
