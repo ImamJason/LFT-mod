@@ -3,29 +3,35 @@
     "name": "LFT Savunma Zırhı",
     "unitTypes": ["Melee"],
     "uniques": [
-      "[+66]% Strength <when defending>"
+      "[+50]% Strength <when defending>"
     ]
   },
   {
     "name": "Yıkım I",
+    "unitTypes": ["Siege"],
     "uniques": [
       "[+33]% Strength <when attacking>"
     ]
   },
   {
     "name": "Yıkım II",
+    "unitTypes": ["Siege"],
+    "prerequisites": ["Yıkım I"],
     "uniques": [
       "[+33]% Strength <when attacking>"
     ]
   },
   {
     "name": "Zırhlı Mancınık I",
+    "unitTypes": ["Siege"],
     "uniques": [
       "[+33]% Strength <when defending>"
     ]
   },
   {
     "name": "Zırhlı Mancınık II",
+    "unitTypes": ["Siege"],
+    "prerequisites": ["Zırhlı Mancınık I"],
     "uniques": [
       "[+33]% Strength <when defending>"
     ]
