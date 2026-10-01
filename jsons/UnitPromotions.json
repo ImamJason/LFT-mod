@@ -1,21 +1,21 @@
 [
   {
     "name": "LFT Savunma Zırhı",
-    "unitTypes": ["Melee"],
+    "unitTypes": ["LFT Melee"],
     "uniques": [
       "[+50]% Strength <when defending>"
     ]
   },
   {
     "name": "Yıkım I",
-    "unitTypes": ["Siege"],
+    "unitTypes": ["LFT Siege"],
     "uniques": [
       "[+33]% Strength <when attacking>"
     ]
   },
   {
     "name": "Yıkım II",
-    "unitTypes": ["Siege"],
+    "unitTypes": ["LFT Siege"],
     "prerequisites": ["Yıkım I"],
     "uniques": [
       "[+33]% Strength <when attacking>"
@@ -23,17 +23,32 @@
   },
   {
     "name": "Zırhlı Mancınık I",
-    "unitTypes": ["Siege"],
+    "unitTypes": ["LFT Siege"],
     "uniques": [
       "[+33]% Strength <when defending>"
     ]
   },
   {
     "name": "Zırhlı Mancınık II",
-    "unitTypes": ["Siege"],
+    "unitTypes": ["LFT Siege"],
     "prerequisites": ["Zırhlı Mancınık I"],
     "uniques": [
       "[+33]% Strength <when defending>"
+    ]
+  },
+  {
+    "name": "LFT Nişancı I",
+    "unitTypes": ["LFT Archery"],
+    "uniques": [
+      "[+33]% Strength <when attacking>"
+    ]
+  },
+  {
+    "name": "LFT Nişancı II",
+    "unitTypes": ["LFT Archery"],
+    "prerequisites": ["LFT Nişancı I"],
+    "uniques": [
+      "[+33]% Strength <when attacking>"
     ]
   }
 ]
