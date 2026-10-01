@@ -70,6 +70,7 @@
     "cost": 180,
     "requiredTech": "Mathematics",
     "upgradesTo": "Cannon",
+    "requiredResource": "Iron",
     "uniques": [
         "[+250]% Strength <vs cities> <when attacking>",
         "No defensive terrain bonus",
