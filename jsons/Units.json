@@ -53,7 +53,7 @@
     "uniqueTo": "LFT",
     "replaces": "Swordsman",
     "movement": 2,
-    "promotions": ["LFT Piyade Zırhı"],
+    "promotions": ["LFT Savunma Zırhı"],
     "strength": 18,
     "cost": 80,
     "requiredTech": "Iron Working",
@@ -63,18 +63,19 @@
     "name": "LFT Mancınık",
     "unitType": "Siege",
     "uniqueTo": "LFT",
-    "replaces": "Catapult",
-    "movement": 2,
-    "strength": 8,
+    "movement": 3,
+    "strength": 10,
     "rangedStrength": 15,
-    "range": 2,
-    "cost": 150,
+    "range": 3,
+    "cost": 180,
+    "promotions": ["Yıkım I","Yıkım II","Zırhlı Mancınık I","Zırhlı Mancınık II"],
     "requiredTech": "Mathematics",
-    "requiredResource": "Iron",
+    "upgradesTo": "Cannon",
     "uniques": [
-      "[+250]% Strength <vs cities> <when attacking>",
-      "No defensive terrain bonus",
-      "Must set up to ranged attack"
-    ]
+        "[+250]% Strength <vs cities> <when attacking>",
+        "No defensive terrain bonus",
+        "Must set up to ranged attack",
+        "[+1] Range"
+    ],
+    "attackSound": "throw"
   }
-]
