@@ -10,9 +10,9 @@
     "happiness": 10,
     "requiredTech": "Construction",
     "uniques": [
-      "[+100]% Food",
-      "[+100]% Culture",
-      "[+100]% Faith"
+      "[+100]% [Food] [in this city]",
+      "[+100]% [Culture] [in this city]",
+      "[+100]% [Faith] [in this city]"
     ]
   },
   {
@@ -61,8 +61,8 @@
       "Iron"
     ],
     "uniques": [
-      "[+100]% Production",
-      "[+100]% Gold"
+      "[+100]% [Production] [in this city]",
+      "[+100]% [Gold] [in this city]"
     ]
   },
   {
@@ -72,20 +72,9 @@
     "production": 10,
     "requiredTech": "Mining",
     "uniques": [
-      "[+100]% Gold from [Coast] tiles in this city"
+      "[+100]% Gold from [Coast] tiles [in this city]"
     ]
   },
   {
     "name": "Yastık Tarikatı",
-    "uniqueTo": "LFT",
-    "cost": 800,
-    "science": 20,
-    "gold": 30,
-    "production": 20,
-    "requiredTech": "Engineering",
-    "uniques": [
-      "[+50]% Production",
-      "[+10] Gold from [Coast] tiles in this city"
-    ]
-  }
-]
+    "uniqueTo":
