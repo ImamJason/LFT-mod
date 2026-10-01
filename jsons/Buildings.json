@@ -77,4 +77,15 @@
   },
   {
     "name": "Yastık Tarikatı",
-    "uniqueTo":
+    "uniqueTo": "LFT",
+    "cost": 800,
+    "science": 20,
+    "gold": 30,
+    "production": 20,
+    "requiredTech": "Engineering",
+    "uniques": [
+      "[+50]% [Production] [in this city]",
+      "[+10 Gold] from [Coast] tiles [in this city]"
+    ]
+  }
+]
