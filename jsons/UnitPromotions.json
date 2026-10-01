@@ -3,10 +3,9 @@
     "name": "LFT Savunma Zırhı",
     "unitTypes": ["Melee"],
     "uniques": [
-      "[+50]% Strength <when defending>"
+      "[+66]% Strength <when defending>"
     ]
-  }
-  [
+  },
   {
     "name": "Yıkım I",
     "uniques": [
@@ -31,5 +30,4 @@
       "[+33]% Strength <when defending>"
     ]
   }
-  ]
 ]
