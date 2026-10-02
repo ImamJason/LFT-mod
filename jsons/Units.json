@@ -59,6 +59,16 @@
     "requiredTech": "Iron Working",
     "requiredResource": "Iron"
   },
+    {
+    "name": "LFT Korsan Gemisi",
+    "unitType": "LFT Water",
+    "uniqueTo": "LFT",
+    "replaces": "Privateer",
+    "movement": 5,
+    "strength": 28,
+    "cost": 200,
+    "requiredTech": "Navigation"
+  },
   {
     "name": "LFT Mancınık",
     "unitType": "LFT Siege",
