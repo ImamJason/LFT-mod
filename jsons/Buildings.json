@@ -3,11 +3,11 @@
     "name": "LFT Ağaç Ev",
     "uniqueTo": "LFT",
     "cost": 150,
-    "gold": 30,
-    "culture": 20,
-    "production": 10,
-    "food": 30,
-    "happiness": 10,
+    "gold": 10,
+    "culture": 10,
+    "production": 5,
+    "food": 10,
+    "happiness": 5,
     "requiredTech": "Construction",
     "uniques": [
       "[+100]% [Food] [in this city]",
@@ -53,9 +53,9 @@
     "name": "Karanlık Madde Santrali",
     "uniqueTo": "LFT",
     "cost": 1000,
-    "science": 50,
-    "gold": 50,
-    "production": 30,
+    "science": 20,
+    "gold": 20,
+    "production": 20,
     "requiredTech": "Industrialization",
     "requiredNearbyImprovedResources": [
       "Iron"
@@ -69,7 +69,7 @@
     "name": "Üretim Tesisi",
     "uniqueTo": "LFT",
     "cost": 150,
-    "production": 10,
+    "production": 5,
     "requiredTech": "Mining",
     "uniques": [
       "[+100]% [Iron] resource production"
@@ -79,9 +79,9 @@
     "name": "Yastık Tarikatı",
     "uniqueTo": "LFT",
     "cost": 800,
-    "science": 20,
-    "gold": 30,
-    "production": 20,
+    "science": 5,
+    "gold": 5,
+    "production": 8,
     "requiredTech": "Engineering",
     "uniques": [
       "[+50]% [Production] [in this city]",
