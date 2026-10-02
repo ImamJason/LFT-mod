@@ -3,6 +3,10 @@
     "name": "LFT Archery",
     "movementType": "Land"
   },
+    {
+    "name": "LFT Water",
+    "movementType": "Water"
+  },
   {
     "name": "LFT Melee",
     "movementType": "Land"
