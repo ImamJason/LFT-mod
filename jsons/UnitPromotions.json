@@ -11,14 +11,14 @@
     "unitTypes": ["LFT Water"],
     "prerequisites": ["Yağmala I"],
     "uniques": [
-       ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
+       ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
     ]
   },
-      {
+  {
     "name": "Yağmala I",
     "unitTypes": ["LFT Water"],
     "uniques": [
-       ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
+       ["Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
     ]
   },
   {
