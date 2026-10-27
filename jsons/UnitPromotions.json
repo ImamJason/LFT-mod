@@ -52,15 +52,6 @@
     ]
   },
   [
-  {
-    "name": "Köle Başı",
-    "uniques": [
-      "[+20]% Strength <when attacking>",
-      "May capture defeated enemy ships"
-    ],
-    "unitTypes": [
-      "LFT Korsan Gemisi"
-    ]
   },
     {
     "name": "Baskın",
