@@ -3,16 +3,14 @@
     "name": "LFT Ağaç Ev",
     "uniqueTo": "LFT",
     "cost": 150,
-    "gold": 10,
-    "culture": 10,
-    "production": 5,
-    "food": 10,
-    "happiness": 5,
+    "gold": 4,
+    "culture": 3,
+    "production": 3,
+    "food": 3,
+    "happiness": 3,
     "requiredTech": "Construction",
     "uniques": [
-      "[+100]% [Food] [in this city]",
-      "[+100]% [Culture] [in this city]",
-      "[+100]% [Faith] [in this city]"
+      "[+25]% [Food] [in this city]",
     ]
   },
   {
@@ -53,23 +51,23 @@
     "name": "Karanlık Madde Santrali",
     "uniqueTo": "LFT",
     "cost": 1000,
-    "science": 20,
-    "gold": 20,
-    "production": 20,
+    "science": 7,
+    "gold": 7,
+    "production": 7,
     "requiredTech": "Industrialization",
     "requiredNearbyImprovedResources": [
       "Iron"
     ],
     "uniques": [
-      "[+100]% [Production] [in this city]",
-      "[+100]% [Gold] [in this city]"
+      "[+25]% [Production] [in this city]",
+      "[+50]% [Gold] [in this city]"
     ]
   },
   {
     "name": "Üretim Tesisi",
     "uniqueTo": "LFT",
     "cost": 150,
-    "production": 5,
+    "production": 3,
     "requiredTech": "Mining",
     "uniques": [
       "[+100]% [Iron] resource production"
@@ -81,10 +79,10 @@
     "cost": 800,
     "science": 5,
     "gold": 5,
-    "production": 8,
+    "production": 5,
     "requiredTech": "Engineering",
     "uniques": [
-      "[+50]% [Production] [in this city]",
+      "[+33]% [Production] [in this city]",
       "[+2 Gold] from [Fish] tiles [in this city]"
     ]
   }
