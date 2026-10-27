@@ -13,7 +13,6 @@
     "uniques": [
       "Starts with [Pottery]",
       "Starts with [Sailing]",
-      "Free [Great General] appears",
       "Cannot build [Settler] units",
 	  "[+50]% Production when constructing [Military] units [in all cities]",
 
@@ -39,9 +38,8 @@
       "[+33]% Strength <for [Water] units>",
       "[+50]% Strength <for [Water] units> <vs [Barbarians]>",
       "Gain a free [Harbor] [in all coastal cities]",
-      "[-66]% Gold cost of acquiring tiles [in all cities]",
+      "[-75]% Gold cost of acquiring tiles [in all cities]",
       "[-25]% Culture cost of adopting new Policies",
-      "[+20]% [Gold] [in all cities]",
       
       "[-2 Happiness] [in all cities] <before discovering [Mining]>",
       "[-2 Gold] [in all cities] <before discovering [Animal Husbandry]>",
