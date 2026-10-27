@@ -1,3 +1,4 @@
+
 [
   {
     "name": "LFT Savunma Zırhı",
@@ -6,19 +7,19 @@
       "[+50]% Strength <when defending>"
     ]
   },
-    {
+  {
     "name": "Yağmala II",
     "unitTypes": ["LFT Water"],
     "prerequisites": ["Yağmala I"],
     "uniques": [
-       "Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
+      "Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
     ]
   },
   {
     "name": "Yağmala I",
     "unitTypes": ["LFT Water"],
     "uniques": [
-       "Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
+      "Earn [100]% of killed [Military] unit's [Strength] as [Gold]"
     ]
   },
   {
@@ -51,16 +52,13 @@
       "[+33]% Strength <when defending>"
     ]
   },
-  [
-    {
+  {
     "name": "Baskın",
     "unitTypes": ["LFT Water"],
     "uniques": [
-        "Eliminates combat penalty for attacking across a coast"
+      "Eliminates combat penalty for attacking across a coast"
     ]
-}
-]
-
+  },
   {
     "name": "LFT Nişancı I",
     "unitTypes": ["LFT Archery"],
